@@ -1,5 +1,10 @@
 ssc exam completed 2018
 hsc completed 2020
+<<<<<<< HEAD
 honars2nd raning 2025
 try too foocus in codeing
 what message send?
+=======
+honars2nd raning 2023
+
+>>>>>>> 6cec2fbb1b1aade907d2243ae3f0e94c0b178961
